@@ -1,5 +1,7 @@
 # sorting_capstone
 
+This is the code portion of my grade 12 career capstone project. This project looks at the development/optimization of sorting algorithms. While several more complex algorithms (mergesort,heapsort,etc.) were copied from the internet, all the animations/simpler algorithms were hand-coded.
+
 Graphics folder:
 'filltest' means that there are green bars in the animations, meant to show which items are being checked/moved
 
