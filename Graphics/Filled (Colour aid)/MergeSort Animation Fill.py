@@ -21,9 +21,6 @@ def wait(duration):
 
 def textcounter():
     global iteration
-
-    wait(10)
-
     iteration += 1
     counter = Text(Point(70, 20), f"Iterations = {iteration}")
     counter.setTextColor(color_rgb(0, 0, 0))
